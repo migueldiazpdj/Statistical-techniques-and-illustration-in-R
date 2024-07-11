@@ -26,3 +26,9 @@
       <strong>Negative Skewness:</strong> The left tail is longer; mean < median.
   </li>
 </ul>
+
+<h3>🔗 Links of Interest:</h3>
+<ul>
+  <li><a href="https://www.gapminder.org" target="_blank">Gapminder</a></li>
+  <li><a href="https://colorbrewer2.org" target="_blank">ColorBrewer 2</a></li>
+</ul>
