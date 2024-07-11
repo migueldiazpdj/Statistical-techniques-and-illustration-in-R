@@ -3,7 +3,7 @@
     #Cuant -> Discretas o Continuas
     #Cual -> Nominales o Ordinales
 
-setwd("C:/Users/miguel.diaz.perez/Desktop/R/data")
+setwd("C:/Users/...")
 datos = read.table("evaluacion4.txt", header=TRUE, dec=",", sep="\t")
 head(datos)
 
