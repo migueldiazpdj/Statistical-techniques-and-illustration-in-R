@@ -31,4 +31,5 @@
 <ul>
   <li><a href="https://www.gapminder.org" target="_blank">Gapminder</a></li>
   <li><a href="https://colorbrewer2.org" target="_blank">ColorBrewer 2</a></li>
+  <li><a href="https://www.r-graph-gallery.com" target="_blank">R Graph Gallery</a></li>
 </ul>
