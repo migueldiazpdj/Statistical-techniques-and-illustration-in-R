@@ -1,7 +1,7 @@
 #Importar datos .txt, .xlsx, .sav
 
 getwd()
-setwd("C:/Users/miguel.diaz.perez/Desktop/R/data")
+setwd("C:/Users...")
 getwd()
 
 df.1 = read.table("aplicaciones1.txt", header=FALSE, sep=",", dec=".")
