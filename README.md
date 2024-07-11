@@ -25,6 +25,9 @@
       <strong>Positive Skewness:</strong> The right tail is longer; mean > median.<br>
       <strong>Negative Skewness:</strong> The left tail is longer; mean < median.
   </li>
+  <li><strong>🔗 Correlation vs. Causation:</strong><br>
+      Correlation between two variables does not imply that one causes the other. It only indicates a relationship or association between them.
+  </li>
 </ul>
 
 <h3>🔗 Links of Interest:</h3>
