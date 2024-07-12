@@ -1,6 +1,6 @@
 📊✨ @USC R Statistics & Visualization 📈🎓
 
-<p>This repo contains materials, assignments, and projects for the course. Dive in to explore the world of R programming, statistical analysis, and data visualization!</p>
+<p>This repo contains materials, assignments, and projects from the course. Dive in to explore the world of R programming, statistical analysis, and data visualization!</p>
 
 <h3>📝 Important Notes on Key Statistical Concepts:</h3>
 
