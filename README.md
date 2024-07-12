@@ -28,6 +28,9 @@
   <li><strong>🔗 Correlation vs. Causation:</strong><br>
       Correlation between two variables does not imply that one causes the other. It only indicates a relationship or association between them.
   </li>
+  <li><strong>📊 Boxplots:</strong><br>
+      Boxplots are useful for identifying outliers but do not show whether there are distinct groups within the data.
+  </li>
 </ul>
 
 <h3>🔗 Links of Interest:</h3>
