@@ -31,6 +31,9 @@
   <li><strong>📊 Boxplots:</strong><br>
       Boxplots are useful for identifying outliers but do not show whether there are distinct groups within the data.
   </li>
+  <li><strong>🔍 Biases:</strong><br>
+      Biases can distort statistical analysis and can occur in data collection, sampling, or interpretation. Common types include selection bias, measurement bias, and confirmation bias.
+  </li>
 </ul>
 
 <h3>🔗 Links of Interest:</h3>
