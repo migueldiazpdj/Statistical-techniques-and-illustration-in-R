@@ -34,6 +34,11 @@
   <li><strong>🔍 Biases:</strong><br>
       Biases can distort statistical analysis and can occur in data collection, sampling, or interpretation. Common types include selection bias, measurement bias, and confirmation bias.
   </li>
+  <li><strong>📈 Normal Distribution vs. t-Distribution:</strong><br>
+    The normal distribution is symmetrical and bell-shaped, used for large sample sizes.<br>
+    The t-distribution is similar to the normal distribution but has heavier tails. This occurs because it accounts for additional variability due to estimating the population standard deviation from a small sample size, which introduces more error.
+</li>
+
 </ul>
 
 <h3>🔗 Links of Interest:</h3>
