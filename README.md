@@ -50,6 +50,10 @@
 <li><strong>🔄 Collinearity in Regression Models:</strong><br>
     A regression model suffers from collinearity when the explanatory variables are highly correlated with each other. Under these conditions, the model struggles to distinguish the effect of each variable on the response. In practice, collinearity is studied through the Variance Inflation Factor (VIF).
 </li>
+<li><strong>🔄 Multivariate Analysis and Dimensionality Reduction:</strong><br>
+    In multivariate analysis, when we have many variables and want to reduce them, we use techniques like Principal Component Analysis (PCA). PCA transforms the original variables into new variables, called principal components, which are linear combinations of the original variables. These principal components maintain the same overall variability of the data but with fewer dimensions.
+</li>
+
 
 </ul>
 
