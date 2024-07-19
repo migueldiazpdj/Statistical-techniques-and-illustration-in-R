@@ -38,6 +38,18 @@
     The normal distribution is symmetrical and bell-shaped, used for large sample sizes.<br>
     The t-distribution is similar to the normal distribution but has heavier tails. This occurs because it accounts for additional variability due to estimating the population standard deviation from a small sample size, which introduces more error.
 </li>
+<li><strong>🔍 Dimensionality Reduction in Multivariate Analysis:</strong><br>
+    In multivariate analysis, the number of observed variables can be high. The goal is to reduce the number of variables to a smaller set that still accurately describes the data.
+</li>
+<li><strong>📉 Coefficient of Determination (R²):</strong><br>
+    The coefficient of determination of a regression model, commonly denoted as R², is the proportion of the variability in the variable Y explained by the regression model. It takes values between 0 and 1; the closer to 1, the closer the observations are to the fitted line.
+</li>
+<li><strong>🔧 Variable Selection Method:</strong><br>
+    The variable selection method seeks a model that best fits the data while being as simple as possible.
+</li>
+<li><strong>🔄 Collinearity in Regression Models:</strong><br>
+    A regression model suffers from collinearity when the explanatory variables are highly correlated with each other. Under these conditions, the model struggles to distinguish the effect of each variable on the response. In practice, collinearity is studied through the Variance Inflation Factor (VIF).
+</li>
 
 </ul>
 
