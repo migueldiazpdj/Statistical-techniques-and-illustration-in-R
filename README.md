@@ -53,6 +53,10 @@
 <li><strong>🔄 Multivariate Analysis and Dimensionality Reduction:</strong><br>
     In multivariate analysis, when we have many variables and want to reduce them, we use techniques like Principal Component Analysis (PCA). PCA transforms the original variables into new variables, called principal components, which are linear combinations of the original variables. These principal components maintain the same overall variability of the data but with fewer dimensions.
 </li>
+<li><strong>🔗 Agglomerative vs. Divisive Methods:</strong><br>
+      <strong>Agglomerative Methods:</strong> Start with each individual as a separate cluster and merge them step by step until all individuals belong to a single group.<br>
+      <strong>Divisive Methods:</strong> Start with a single group and divide it step by step until each individual forms its own group.
+  </li>
 
 
 </ul>
