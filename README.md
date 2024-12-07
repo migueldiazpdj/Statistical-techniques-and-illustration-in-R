@@ -67,3 +67,7 @@
   <li><a href="https://colorbrewer2.org" target="_blank">ColorBrewer 2</a></li>
   <li><a href="https://www.r-graph-gallery.com" target="_blank">R Graph Gallery</a></li>
 </ul>
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
